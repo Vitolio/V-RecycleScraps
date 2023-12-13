@@ -30,6 +30,9 @@ English traduction included
 5 - Copy/Paste all the content of this file in your sql Database, in order to create the 'foundry_items' table</br>
 6 - Go to your server.cfg file and ensure the 'v-recyclescraps' folder after all the other ressources</br>
 
+#CHECKOUT MY OTHER STUFFS 
+https://cityv-resources.tebex.io/
+
 
 # LANGUAGE SETTINGS</br>
 7-> If you want to switch the language of  the resource to english, then go to the 'fxmanifest.lua' file and change 'locales/fr.lua' to 'locales/en.lua'</br>
