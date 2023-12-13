@@ -17,11 +17,3 @@ server_script {
 	'@oxmysql/lib/MySQL.lua',
 }
 client_script 'client/*.lua'
-
-escrow_ignore {
-  'config.lua', 
-  'Readme.md',
-  'foundry_items.sql',  
-  'locales/*.lua',
-  'ITEMSTOCREATE/*',     
-}
