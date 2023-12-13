@@ -30,7 +30,7 @@ English traduction included
 5 - Copy/Paste all the content of this file in your sql Database, in order to create the 'foundry_items' table</br>
 6 - Go to your server.cfg file and ensure the 'v-recyclescraps' folder after all the other ressources</br>
 
-# CHECKOUT MY OTHER STUFFS 
+# CHECKOUT MY OTHER STUFFS <br/>
 https://cityv-resources.tebex.io/
 
 
